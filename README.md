@@ -1,14 +1,5 @@
-# py-directory
+# my tools py-directory
 
-another one but my python guide
+I use also Ukrainian comments in some (or all) texts :)
 
-I use Ukrainian comments in some (or all) texts :)
 
-Заповнюється приблизно в такому порядку
-
-# Синтаксис
-# Структури даних
-# Формати даних
-# Класи
-# Тести (почнемо з Django)
-#####
